@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomek
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React.js
 - 💞️ I’m looking to collaborate on Front-End projects
 - 📫 You can contact with me by sending a message on my e-mail adress tomaszrohda@wp.pl
 
