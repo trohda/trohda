@@ -8,7 +8,7 @@
 - 📫 You can contact with me by sending a message on my e-mail adress tomaszrohda@wp.pl
 
 ---
-###  This is my GitHub profile which has repositories used to learn programming and also it has my private projects - below are some of them:
+###  This is my GitHub profile which has repositories used to learn programming and also it has my private projects. </br>Below are some links of private-projects repositories:
 
 
 - <a href="https://github.com/trohda/react-projects/tree/main/React%20Todo%20List">🗒️ MVC "TODO" LIST</a>
