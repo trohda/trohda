@@ -1,8 +1,7 @@
 
-  <h1 align="center"> 👋 Hi, I’m Tomek 👋<br>
+  # 👋 Hi, I’m Tomek 👋
   
  
-
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning JavaScript and React.js
 - 💞️ I’m looking to collaborate on Front-End projects
