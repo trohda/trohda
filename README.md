@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Front-End projects
 - 📫 You can contact with me by sending a message on my e-mail adress tomaszrohda@wp.pl
 
-
+---
 ###  This is my GitHub profile which has repositories used  learn programming. Also my private projects - below are some of them
 
 
