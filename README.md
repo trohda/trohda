@@ -22,7 +22,7 @@
 -  <a href="https://github.com/trohda/project-olimph">🪙Project OLIMPH </a>
    > *Project of simple page for financial company*
 
--  <a href="https://github.com/trohda/project-portfolio">🪙Project PORTFOLIO </a>
+-  <a href="https://github.com/trohda/project-portfolio">👨Project PORTFOLIO </a>
    > *Project of portfolio www.tomaszrohda.pl - **under construction***
 
 <!---
