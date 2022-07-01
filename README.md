@@ -23,8 +23,10 @@
    > *Project of simple page for financial company*
 
 -  <a href="https://github.com/trohda/project-portfolio">👨Project PORTFOLIO </a>
-   > *Project of portfolio www.tomaszrohda.pl - **under construction***
+   > *Project of my portfolio www.tomaszrohda.pl
 
+-  <a href="https://github.com/trohda/project-vet">🏥Project Vet Site </a>
+   > *Project of simple page for veterinary clinic www.weterynarzprzymorze.com.pl - **under construction***
 <!---
 trohda/trohda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
