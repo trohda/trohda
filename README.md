@@ -23,7 +23,7 @@
    > *Project of simple page for financial company*
 
 -  <a href="https://github.com/trohda/project-portfolio">👨Project PORTFOLIO </a>
-   > *Project of my portfolio www.tomaszrohda.pl
+   > *Project of my portfolio www.tomaszrohda.pl*
 
 -  <a href="https://github.com/trohda/project-vet">🏥Project Vet Site </a>
    > *Project of simple page for veterinary clinic www.weterynarzprzymorze.com.pl - **under construction***
