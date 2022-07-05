@@ -4,7 +4,7 @@
  
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning JavaScript and React.js
-- 💞️ I’m looking to collaborate on Front-End projects
+- 💞️ I'm looking for collaboration on Front-End projects
 - 📫 You can contact with me by sending a message on my e-mail adress tomaszrohda@wp.pl
 
 ---
@@ -27,6 +27,9 @@
 
 -  <a href="https://github.com/trohda/project-vet">🏥Project Vet Site </a>
    > *Project of simple page for veterinary clinic www.weterynarzprzymorze.com.pl - **under construction***
+   
+-  <a href="https://github.com/trohda/diet-feature-project">🏥Diet Feature project </a>
+   > *Project of feature to  site about healthy life and healthy diet https://dietplan-gs.netlify.app/*
 
 
 <!---
